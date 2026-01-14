@@ -1,0 +1,7 @@
+node = "~22"
+
+[settings]
+    auto-clean        = true
+    auto-install      = true
+    telemetry         = false
+    unstable-lockfile = true
